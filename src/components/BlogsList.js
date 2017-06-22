@@ -17,7 +17,7 @@ class BlogsList extends React.Component {
   componentDidMount(){
     getJsonData()
       .then((data) => {
-        // console.log(data)
+        console.log(data)
         this.setState({
           posts:data.posts,
           wait:false
