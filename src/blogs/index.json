@@ -11,5 +11,10 @@
   {"index":10, "title":"箭头函数", "date":"2016.7.28","url":"function"},
   {"index":11, "title":"字符串的扩展", "date":"2016.7.28","url":"string"},
   {"index":12, "title":"Class的基础语法与继承", "date":"2016.7.28","url":"class"},
-  {"index":13, "title":"模块的语法", "date":"2016.7.28","url":"Module"}
+  {"index":13, "title":"模块的语法", "date":"2016.7.28","url":"Module"},
+  {"index":14, "title":"HTTP 简介", "date":"2016.7.28","url":"1-http-intro"},
+  {"index":15, "title":"发起 HTTP 请求", "date":"2016.7.28","url":"2-making-request"},
+  {"index":16, "title":"HTTP 请求的格式", "date":"2016.7.28","url":"3-request"},
+  {"index":17, "title":"HTTP 响应的格式", "date":"2016.7.28","url":"4-response"},
+  {"index":18, "title":"模块的语法", "date":"2016.7.28","url":"Module"}
 ]

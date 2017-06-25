@@ -9,11 +9,11 @@ import Item from './containers/Item.js';
 import PageNotFound from './components/PageNotFound.js';
 
 export default (
-  <Route path="/" component={App}>
+  <Route path="/my-blog" component={App}>
     <IndexRoute component={Home} />
-    <Route path="blog" component={Blog} />
-    <Route path="about" component={About} />
-    <Route path="blog/:item" component={Item} />
+    <Route path="/my-blog/blog" component={Blog} />
+    <Route path="/my-blog/about" component={About} />
+    <Route path="/my-blog/blog/:item" component={Item} />
     <Route path="*" component={PageNotFound} />
   </Route>
 )
